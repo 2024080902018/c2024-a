@@ -1,0 +1,6 @@
+﻿  Skiplist.c
+E:\Wxy.vs.2022\跳表\Skiplist.c(168,8): warning C4013: “time”未定义；假设外部返回 int
+E:\Wxy.vs.2022\跳表\Skiplist.c(174,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Wxy.vs.2022\跳表\Skiplist.c(182,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Wxy.vs.2022\跳表\Skiplist.c(192,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  跳表.vcxproj -> E:\Wxy.vs.2022\跳表\x64\Debug\跳表.exe
